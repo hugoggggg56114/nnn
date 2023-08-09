@@ -656,7 +656,7 @@ nav ul li a:hover{
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
-    padding-bottom: 4px;
+    padding-bottom: 20px;
 }
 
 .column {
@@ -682,10 +682,14 @@ nav ul li a:hover{
     .btn-mouveo-mouveo button{
         width: 80vw;
     }
+    .title-actus{
+        margin-left: 0;
+    }
     .title-actus h1{
         font-size: 35;
     }
     .actus p{
+        width: 80vw;
         font-size: 16;
     }
     nav ul li a{
